@@ -81,3 +81,6 @@ The following challenges required deeper investigation, structured troubleshooti
 - Persistence and methodical thinking are often more valuable than speed when resolving complex issues.  
 
 These challenges strengthened both my technical diagnostic skills and my ability to approach unfamiliar systems with confidence, precision, and a structured problem-solving mindset.
+
+<img width="750" height="750" alt="Screenshot 2026-02-19 223906" src="https://github.com/user-attachments/assets/6f4c88ed-16db-4ec2-90ca-eb2fac8916b1" />
+

@@ -1,4 +1,4 @@
-# 🐧 Linux CTF Challenge Portfolio  
+# 🐧 Linux CTF Challenge
 
 I completed the **Linux CTFs** challenge from the LearnToCloud community to strengthen my hands-on Linux administration, cloud troubleshooting, and security investigation skills.
 
